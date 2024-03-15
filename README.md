@@ -1,0 +1,1 @@
+It was a very simple program that I made by myself by understanding its logic in a very short time on the way of learning the C programming language that I just started, which finds the square and cube of the number we receive from the user. This is my first program with C programming language, I hope I can write better ones in each program. 
